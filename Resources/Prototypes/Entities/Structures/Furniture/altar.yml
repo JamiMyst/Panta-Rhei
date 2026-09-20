@@ -28,13 +28,13 @@
   #- type: Climbable # DeltaV: remove climbable since it conflicts with strap
   - type: Clickable
   # Begin DeltaV additions: Sacrificing psionics
-  - type: SacrificialAltar
-  - type: Strap
-    position: Down
-    rotation: -90
-  - type: GuideHelp
-    guides:
-    - Altars
+  # - type: SacrificialAltar
+  # - type: Strap
+  #  position: Down
+  #   rotation: -90
+  # - type: GuideHelp
+  #  guides:
+  #  - Altars
   # End DeltaV additions
 
 - type: entity
